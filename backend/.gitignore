@@ -1,0 +1,8 @@
+node_modules/
+
+# Log files are generated at runtime — never commit them to git
+# They can contain sensitive info and grow very large
+logs/
+
+
+.env
